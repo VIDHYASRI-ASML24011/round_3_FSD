@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+
+img {
+    box-shadow: 100%;
+    block-size: auto;
+    width: 20%;
+    animation-duration: 10s;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+article{
+    text-shadow: 20%;
+}
+
+figcaption {
+    text-align: left;
+    color: aquamarine;
+}
+
+
+
